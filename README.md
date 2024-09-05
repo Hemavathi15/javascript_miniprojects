@@ -4,10 +4,7 @@ Welcome to my personal projects repository!
 Here, you'll find a collection of small projects I've created using HTML, CSS, and JavaScript. 
 Each project showcases different aspects of web development and my journey in learning and experimenting with these technologies.
 
-## Projects
-
-### 1. **Calculator**
-Sure! Here are the descriptions for your projects:
+## Projects ##
 
 ### 1. **Calculator**
 This project is a basic calculator built using HTML, CSS, and JavaScript.
