@@ -21,6 +21,9 @@ This project features an image gallery where clicking on an image expands it to 
 The main focus was on practicing CSS transitions and JavaScript event handling.
 When an image is clicked, it smoothly expands to a larger size, providing a visually appealing effect.
 
+### 4. **Expression calculator**
+The Expression Calculator is a simple JavaScript project that allows users to input mathematical expressions and receive the calculated result. It efficiently evaluates the expressions and displays the output, making it a handy tool for quick calculations.
+
 
 
 ## How to Use
