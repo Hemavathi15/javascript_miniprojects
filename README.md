@@ -24,7 +24,8 @@ When an image is clicked, it smoothly expands to a larger size, providing a visu
 ### 4. **Expression calculator**
 The Expression Calculator is a simple JavaScript project that allows users to input mathematical expressions and receive the calculated result. It efficiently evaluates the expressions and displays the output, making it a handy tool for quick calculations.
 
-5.To-do list
+### 5. **To-do list**
+
 A user-friendly web To-do list for managing tasks, created with HTML, CSS, and JavaScript. It allows users to add, delete, and mark tasks as complete. The app is responsive and stores tasks in local storage for persistence across sessions.
 
 ## How to Use
