@@ -27,7 +27,7 @@ The Expression Calculator is a simple JavaScript project that allows users to in
 ### 5. **To-do list**
 A user-friendly web To-do list for managing tasks, created with HTML, CSS, and JavaScript. It allows users to add, delete, and mark tasks as complete. The app is responsive and stores tasks in local storage for persistence across sessions.
 
-### 5. **Connect4 Game**
+### 6. **Connect4 Game**
 The Connect 4 Game is a web-based version of the classic two-player strategy game, created using HTML, CSS, and JavaScript. Players alternate turns dropping colored discs into a seven-column, six-row grid, aiming to connect four in a row vertically, horizontally, or diagonally.This project demonstrates fundamental web development skills and JavaScript-based game logic, making it a fun and educational.
 
 ## How to Use
